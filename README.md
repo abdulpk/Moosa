@@ -38,8 +38,11 @@ Operating System: ( Windows 10)
 Hardware:
 
 Processor: Intel(R) Core(TM) m3-7Y30 CPU @ 1.00GHz 1.61 GHz
+
 Installed memory (RAM): 8.00 GB
+
 System type: 64-bit Operating System, x64-based processor
+
 Software and Libraries: (e.g., TensorFlow/PyTorch version, OpenCV, NumPy, Pandas)
 Development Environment: (e.g., Jupyter Notebook, Google Colab, or local machine setup)
 
