@@ -1,3 +1,5 @@
+Cotton Crop Monitoring and Prediction: PlusCal, TLA+, and CNN Based Method
+
 🌿 Cotton Crop Prediction using Deep Learning
 
 This repository contains a deep learning-based cotton crop disease prediction model. The model leverages TensorFlow and Keras to classify cotton crop images based on various disease conditions. It uses a Convolutional Neural Network (CNN) for image classification.
@@ -57,6 +59,35 @@ Integration of real-time image classification.
 🤝 Contribution
 
 Contributions are welcome! If you find any issues or want to improve the model, feel free to open a pull request.
+
+
+🌿 Cotton Crop Management using TLA+
+
+This repository contains a formal verification model for cotton crop health management, designed using TLA+ and PlusCal. The module implements an automated decision-making system that evaluates disease symptoms, growth stages, and pest risks based on provided inputs. The PlusCal algorithm helps in systematically identifying the most likely disease, optimal growth stage, and critical pest threat, ensuring data-driven agricultural decision-making.
+
+📌 Features
+
+Disease Diagnosis: Matches observed symptoms with known diseases.
+Growth Stage Evaluation: Identifies the best growth stage for cotton crops.
+Pest Risk Assessment: Determines the most critical pest based on growth conditions.
+TLA+ Formal Verification: Ensures correctness in disease prediction and crop phase transitions.
+
+Install TLA+ Toolbox
+Download from: TLA+ GitHub
+Run Model Checking
+Open cottoncropoverall.tla in TLA+ Toolbox and execute the model checker.
+
+🔬 TLA+ Verification
+Ensures logical consistency in disease, growth stage, and pest assessments.
+Verifies requirement properties, such as:
+Symptom-based disease classification.
+Growth stage matching for optimal yield.
+Pest impact assessment for crop protection.
+
+🏆 Future Enhancements
+Extend to real-time data inputs.
+Integrate climate and soil condition factors.
+Apply machine learning for dynamic rule optimization.
 
 📩 Contact
 For any questions or collaborations, reach out via GitHub Issues.
