@@ -31,7 +31,6 @@ Bacterial Blight
 Powdery Mildew
 Target spot
 Healthy
-If not included, download it and place it in the dataset/ directory.
 
 🏗 Model Details
 
