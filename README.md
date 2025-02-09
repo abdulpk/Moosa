@@ -32,6 +32,17 @@ Powdery Mildew
 Target spot
 Healthy
 
+Materials & Methods
+
+Operating System: ( Windows 10)
+Hardware:
+
+Processor: Intel(R) Core(TM) m3-7Y30 CPU @ 1.00GHz 1.61 GHz
+Installed memory (RAM): 8.00 GB
+System type: 64-bit Operating System, x64-based processor
+Software and Libraries: (e.g., TensorFlow/PyTorch version, OpenCV, NumPy, Pandas)
+Development Environment: (e.g., Jupyter Notebook, Google Colab, or local machine setup)
+
 🏗 Model Details
 
 Uses a Convolutional Neural Network (CNN) for classification.
@@ -87,6 +98,15 @@ Pest impact assessment for crop protection.
 Extend to real-time data inputs.
 Integrate climate and soil condition factors.
 Apply machine learning for dynamic rule optimization.
+
+
+Conclusions
+
+The conclusion will be refined to summarize the key findings of our study, emphasizing the accuracy and applicability of the CNN model for cotton disease prediction. Additionally, we will highlight the potential impact of AI-driven monitoring on sustainable cotton farming practices and future improvements.
+
+Limitations
+
+The limitations of our study, including the dependency on high-quality labeled datasets, sensitivity to image variations (lighting, angle, resolution), and the exclusion of external environmental factors such as soil health and weather conditions. Future research directions will also be suggested to enhance the robustness of the approach.
 
 📩 Contact
 For any questions or collaborations, reach out via GitHub Issues.
